@@ -1,0 +1,59 @@
+    }
+    .cal_img{
+        margin-right: 10px;
+    }
+    .cal_link{
+        text-align: center;
+        border: 1px solid #f17d09;
+        color: #FF9F00;
+        padding: 7px 20px;
+        border-radius: 5px;
+        transition: .3s;
+        margin-bottom: 10px;
+    }
+    .cal_link:hover{
+        color: white;
+        background: #FF9F00;
+    }
+
+    .call_link{
+        text-align: center;
+        color: white;
+        background: #09B3B0;
+        padding: 7px 20px;
+        border-radius: 5px;
+        transition: .3s;
+        margin-bottom: 10px;
+    }
+
+    .call_link:hover{
+        transform: scale(1.1);
+    }
+}
+
+.get_box{
+    text-align: center;
+    border-bottom: 1px solid rgba(119, 237, 245, 0.438);
+    padding: 50px 0px;
+    .get_button{
+        border: none;
+        padding: 10px 30px;
+        margin-right: 50px;
+        background: #09B3B0;
+        color: white;
+        border-radius: 5px;
+        transition: .3s;
+    }
+    .get-button{
+        border: none;
+        padding: 10px 30px;
+        margin-right: 50px;
+        background: #FF9F00;
+        color: white;
+        border-radius: 5px;
+        transition: .3s;
+    }
+    .get-button:hover, .get_button:hover{
+        transform: scale(1.1);
+    }
+}
