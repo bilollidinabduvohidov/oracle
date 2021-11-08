@@ -1,0 +1,38 @@
+.oracle{
+    padding-top: 30px;
+    background-image: url(/img/rental_3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+
+.why{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.oracle_list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .oracle_item{
+        text-align: center;
+        width: 30%;
+        padding: 10px;
+    }
+    .oracele_text{
+        text-align: left;
+        margin-left: 30px;
+        margin-top: 20px;
+        color: #0099A8;
+    }
+    .oracle_suptext{
+        margin-top: 5px;
+        text-align: left;
+        margin-left: 30px;
+    }
+    .oracele_suptext{
+        color: #0099A8;
+    }
+}
