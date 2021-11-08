@@ -1,0 +1,26 @@
+.main_title{
+    margin-top: 200px;
+    margin-right: 900px;
+    text-align: center;
+    .main_text{
+        font-size: 100px;
+        color: #FF9F00;
+        font-family: 'Indie Flower', cursive;
+        margin-bottom: 20px;
+    }
+    .main_suptext{
+        font-size: 26px;
+        font-weight: bold;
+        font-family: 'Indie Flower';
+        margin-bottom: 20px;
+    }
+    .main_saptext{
+        color: #FF9F00;
+        letter-spacing: 2px;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        sub{
+            color: #FF9F00;
+            font-size: 30px;
+        }
+    }
+}
