@@ -1,0 +1,62 @@
+.love{
+    background-image: url(/img/bg5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.love_box{
+    width: 70%;
+    margin: 50px 0;
+    margin-left: 200px;
+    text-align: center;
+}
+
+.love_text{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 10px;
+    color: #09292F;
+}
+
+.love_suptext{
+    color: #09292F;
+    font-size: 20px;
+    text-align: left;
+}
+
+.about_box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .love_title{
+        text-align: left;
+    }
+    .love_link{
+        color: #008080;
+    }
+}
+
+.loVe_title{
+    margin-bottom: 30px;
+    text-align: left;
+ 
+}
+
+.love_button{
+    text-align: center;
+    margin: auto;
+    border: 1px solid #008080;
+    border-radius: 5px;
+    color: #008080;
+    transition: .3s;
+    background: white;
+    padding: 7px 25px;
+}
+
+.love_button:hover{
+    background: #09B3B0;
+    color: white;
+}
